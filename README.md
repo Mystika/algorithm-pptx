@@ -9,4 +9,6 @@
 
 혹은 이메일 **devbirdlee [at] gmail [dot] com**로 연락하셔도 좋습니다.
 
- \- 2017. 03. 21. Chang Hui Lee
+또한 이 레포지터리에 업로드 되어있는 모든 프리젠테이션은 [SpeakerDeck](https://speakerdeck.com/mystika)에도 업로드 되어있습니다.
+
+\- 2017. 03. 21. Chang Hui Lee
